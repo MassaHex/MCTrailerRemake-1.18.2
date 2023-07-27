@@ -4,6 +4,6 @@ A complete remake of the official Minecraft Trailer into one zip file that you c
 
 ## Mods
 
-### Trainguys Animation Overhaul <a href="https://github.com/Trainguy9512/trainguys-animation-overhaul">https://github.com/Trainguy9512/trainguys-animation-overhaul</a>
+### Trainguys Animation Overhaul : <a href="https://github.com/Trainguy9512/trainguys-animation-overhaul">https://github.com/Trainguy9512/trainguys-animation-overhaul</a>
 
 
