@@ -41,6 +41,8 @@ This mod is similar to Effective but does not focus on the ocean and focuses mor
 
 ## Resource Packs
 
+### Animated Double Doors : <a href="https://github.com/Scommander/AnimatedDoubleDoorsDatapack/releases">https://github.com/Scommander/AnimatedDoubleDoorsDatapack/releases</a>
+This resource pack is a requirement for the Data Pack "Animated Double Doors". This makes the all doors slide open rather than snap into the open position.
 ### Another Bare Bones PBR (Discontinued) : <a href="https://www.curseforge.com/minecraft/texture-packs/another-bare-bones-pbr">https://www.curseforge.com/minecraft/texture-packs/another-bare-bones-pbr</a>
 This gives the Bare Bones texture pack more depth making it look 3D.
 ### Bare Bones Stacks : <a href="https://www.curseforge.com/minecraft/texture-packs/bare-bones-stacks">https://www.curseforge.com/minecraft/texture-packs/bare-bones-stacks</a>
@@ -51,3 +53,10 @@ This resource pack is the base of this entire Trailer Remake. This pack makes re
 This resource pack is not needed either but can be added if you choose so.
 ### Fresh Animations : <a href="https://www.curseforge.com/minecraft/texture-packs/fresh-animations">https://www.curseforge.com/minecraft/texture-packs/fresh-animations</a>
 This resource pack requires optifine but also is important for the look of the trailer.
+
+## Data Packs
+
+### Spawn Animations : <a href="https://modrinth.com/datapack/spawn-animations">https://modrinth.com/datapack/spawn-animations</a>
+This Data Pack is not required but makes hostile mobs come out of the ground when they spawn rather than appear out of nowhere.
+### Animated Double Doors : <a href="https://github.com/Scommander/AnimatedDoubleDoorsDatapack/releases">https://github.com/Scommander/AnimatedDoubleDoorsDatapack/releases</a>
+This Data Pack is a requirement for the Resource Pack "Animated Double Doors". This makes the all doors slide open rather than snap into the open position.
