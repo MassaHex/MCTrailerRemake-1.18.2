@@ -22,6 +22,23 @@ This mod fixes some of the things Minecraft should've fixed ages ago.
 This mod is essential to make Animations, Shaders, and Optifine work.
 ### Optifine : <a href="https://optifine.net/downloads">https://optifine.net/downloads</a>
 This mod goes together with Optifabric to allow shaders to work as well as animations. This mod is also essential.
-### n/a
+### Physics Mod : <a href="https://www.curseforge.com/minecraft/mc-mods/physics-mod">https://www.curseforge.com/minecraft/mc-mods/physics-mod</a>
+This mod allows mobs, items, and so much more to break in realistic ways, unlike Minecraft's bad logic.
+### Pollen : <a href="https://www.curseforge.com/minecraft/mc-mods/pollen">https://www.curseforge.com/minecraft/mc-mods/pollen</a>
+This mod is a required binary to make some mods work without errors.
+### Presence Footsteps : <a href="https://www.curseforge.com/minecraft/mc-mods/presence-footsteps">https://www.curseforge.com/minecraft/mc-mods/presence-footsteps</a>
+Presence Footsteps makes all your walking more worth it with tons of new realistic sounds that also contribute to the trailer's feel.
+### Realistic Item Drops : <a href="https://www.curseforge.com/minecraft/mc-mods/realistic-item-drops">https://www.curseforge.com/minecraft/mc-mods/realistic-item-drops</a>
+Uhh... Im not sure how this mod got here. This mod is not needed at all and can be disregarded because the physics mod already does its job.
+### Replay Mod : <a href="https://www.curseforge.com/minecraft/mc-mods/replay-mod-fabric-and-forge">https://www.curseforge.com/minecraft/mc-mods/replay-mod-fabric-and-forge</a>
+A mod that clips the most important parts of your gameplay when you aren't even recording by yourself.
+### Sheep Consistency : <a href="https://www.curseforge.com/minecraft/mc-mods/sheep-consistency">https://www.curseforge.com/minecraft/mc-mods/sheep-consistency</a>
+I would recommend deleting this mod. I'm not sure how it got here. Also, it causes bugs with the sheep and doesn't help contribute at all.
+### Nyf's Spiders : <a href="https://www.curseforge.com/minecraft/mc-mods/nyfs-spiders">https://www.curseforge.com/minecraft/mc-mods/nyfs-spiders</a>
+This mod makes spiders climb on walls more realistically similar to the Trailer. For this mod to work it must be in a Local World.
+### Visuality : <a href="https://www.curseforge.com/minecraft/mc-mods/visuality">https://www.curseforge.com/minecraft/mc-mods/visuality</a>
+This mod is similar to Effective but does not focus on the ocean and focuses more on mobs, and ores.
+
+## Resource Packs
 
 
