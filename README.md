@@ -15,6 +15,8 @@ Installation is fairly simple just follow these steps and you will be done with 
 8. Take all files from "ShaderpacksForMCTRAILERREMAKE" and drag them into the shaderpacks folder if you do not see it create a folder named "shaderpacks" and drag the files into it.
 9. Launch the Fabric Instance with all the files in place and have fun!
 
+Having trouble? Join my <a href="https://discord.gg/buw7emM">discord</a>!
+
 ## Mods
 
 ### Trainguys Animation Overhaul : <a href="https://github.com/Trainguy9512/trainguys-animation-overhaul">https://github.com/Trainguy9512/trainguys-animation-overhaul</a>
