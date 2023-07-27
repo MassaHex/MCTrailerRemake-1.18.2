@@ -2,6 +2,19 @@
 A complete remake of the official Minecraft Trailer into one zip file that you can load into Minecraft! <br>
 ***Note this is not affiliated with mojang at all.***
 
+## How to install?
+Installation is fairly simple just follow these steps and you will be done with no problems at all!
+
+1. Download the zip from <a href="https://github.com/MassaHex/MCTrailerRemake-1.18.2/releases/tag/Release">Release</a>
+2. Extract the downloaded zip file.
+3. Take all files from "AllOptionSettingsInRootFolderForMCTRAILERREMAKE" and drag them into the root of your Minecraft Fabric instance/folder.
+4. Take all files from "ConfigFolderForMCTRAILERREMAKE" and drag them into your config folder in your Minecraft Fabric instance/folder.
+5. Take all files from "DatapacksForMCTRAILERREMAKE" and drag them into the Datapacks folder inside your Minecraft World.
+6. Take all files from "ModsForMCTRAILERREMAKE" and drag them into the Mods folder in your Minecraft Fabric instance/folder.
+7. Take all files from "ResourcepacksForMCTRAILERREMAKE" and drag them into the Resource packs folder in your Minecraft Fabric instance/folder.
+8. Take all files from "ShaderpacksForMCTRAILERREMAKE" and drag them into the shaderpacks folder if you do not see it create a folder named "shaderpacks" and drag the files into it.
+9. Launch the Fabric Instance with all the files in place and have fun!
+
 ## Mods
 
 ### Trainguys Animation Overhaul : <a href="https://github.com/Trainguy9512/trainguys-animation-overhaul">https://github.com/Trainguy9512/trainguys-animation-overhaul</a>
